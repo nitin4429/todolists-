@@ -1,0 +1,30 @@
+.inputs-wrap{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.tododata{
+   font-weight: bold;
+   font-size: 18px;
+}
+.edit_button{
+    padding: 4px 15px;
+    background-color: #1b7853;
+    color: white;
+    border-radius: 6px;
+    margin-left: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+.delete_button{
+    padding: 4px 15px;
+    background-color: #bd2d09;
+    color: white;
+    border-radius: 6px;
+    margin-left: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}

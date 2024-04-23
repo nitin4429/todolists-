@@ -1,0 +1,14 @@
+.add_todo{
+    display: flex;
+    justify-content: center;
+    margin-top: 16%;
+}
+.create_Button{
+    padding: 6px 15px;
+    background-color: #1247dc;
+    color: white;
+    border-radius: 6px;
+    margin-left: 8px;
+    border: none;
+    cursor: pointer;
+}
